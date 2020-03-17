@@ -2,7 +2,7 @@
   "name": "ng-ant-design",
   "version": "0.0.1",
   "scripts": {
-    "dev": "ng serve --port 0 --open",
+    "dev": "ng serve --port 4300 --open",
     "build": "ng build --prod",
 
     "ng": "ng",

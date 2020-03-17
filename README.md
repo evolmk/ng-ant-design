@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve --port 0 --open`
+Run `ng serve --port 4600 --open`
 
 ## Build
 
